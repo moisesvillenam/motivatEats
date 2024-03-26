@@ -1,0 +1,13 @@
+{
+    "platos": [
+       {
+          "nombre": "Vitality Chicken",
+          "imagen": "imagenes/vaina1.png",
+          "precio": 3.99,
+          "calorias": 450,
+          "description": "Pollo a la plancha acompañado de vainitas rostizadas, papa chaucha, huevo cocinado y una salsa especial",
+          "enlace": "https://api.whatsapp.com/send?phone=593959217004&text=Hola%2C%20deseo%20ordenar%20un%20Vitality%20Chicken"
+       }
+    ]
+ }
+ 
